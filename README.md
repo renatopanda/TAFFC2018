@@ -9,7 +9,7 @@ The features extracted, annotations, feature ranking and metadata are all availa
 
 ## Installation
 
-The classification script is written in R language. Thus, R is needed and RStudio is recommended too.
+The classification script is written in R language. Thus, [R](https://www.r-project.org/) is needed and [RStudio](https://rstudio.com/) is recommended too.
 
 For reproducibility purposes this project uses the `renv` package/dependency manager. When the project is loaded the exact versions of the packages used (and R) are installed locally. It should also set the working directory to the current folder.
 
