@@ -1,11 +1,11 @@
 # TAFFC2018 - "Novel audio features for music emotion recognition"
 
-This repository contains (WIP) scripts to reproduce the classification results obtained in our TAFFC paper [1](#references).
+This repository contains (WIP) scripts to reproduce the classification results obtained in our TAFFC paper [[1]](#references).
 
 At the moment only one script is available (`best_result.R`), used to obtain the F1-Score of 0.7651 with the best 100 features (standard and novel). 
 
 ## Data
-The features extracted, annotations, feature ranking and metadata are all available inside the *data/* folder. For more details check our [website](http://mir.dei.uc.pt) and the original paper [1](#references).
+The features extracted, annotations, feature ranking and metadata are all available inside the *data/* folder. For more details check our [website](http://mir.dei.uc.pt) and the original paper [[1]](#references).
 
 ## Installation
 
@@ -29,7 +29,7 @@ source('best_result.R')
 
 ### R Command Line
 Open an R command line in the project folder, e.g., by executing:
-```bash
+```cmd
 X:\TAFFC2018>"C:\Program Files\R\R-3.6.1\bin\R.exe"
 ```
 
