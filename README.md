@@ -5,7 +5,7 @@ This repository contains (WIP) scripts to reproduce the classification results o
 At the moment only one script is available (`best_result.R`), used to obtain the F1-Score of 0.7651 with the best 100 features (standard and novel). 
 
 ## Data
-The features extracted, annotations, feature ranking and metadata are all available inside the *data/* folder. For more details check our [website]() and the original paper [1].
+The features extracted, annotations, feature ranking and metadata are all available inside the *data/* folder. For more details check our [website](http://mir.dei.uc.pt) and the original paper [1](#references).
 
 ## Installation
 
